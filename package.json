@@ -1,0 +1,18 @@
+{
+  "name": "handicons",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "node build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "oslllo-svg-fixer": "^5.0.0",
+    "svgo": "^3.3.2",
+    "svgtofont": "^6.2.0"
+  }
+}
