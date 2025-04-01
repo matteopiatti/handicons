@@ -10,7 +10,7 @@ const FONT_NAME = "HandIcons";
 const CLASS_NAME = "hand-icons";
 const SVG_DIR = "./svg";
 const SVG_FIX_DIR = "./svgfix";
-const DIST_DIR = "./dist";
+const DIST_DIR = "./docs";
 
 fs.mkdirSync(DIST_DIR, { recursive: true });
 fs.mkdirSync(SVG_FIX_DIR, { recursive: true });
@@ -75,8 +75,6 @@ fs.mkdirSync(SVG_FIX_DIR, { recursive: true });
     export * as info from './info.json';
   `;
   fs.writeFileSync(path.join(DIST_DIR, 'index.js'), indexContent.trim());
-  
-  fs.renameSync(path.join(DIST_DIR, "index.html"), path.join("docs/index.html"));
 
   // Delete unwanted/unneeded files
   fs.unlinkSync(path.join(DIST_DIR, "unicode.html"));

@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "HandIcons";
+  src: url('HandIcons.woff2?t=1743518446019') format('woff2'),
+  url('HandIcons.woff?t=1743518446019') format('woff'),
+  url('HandIcons.ttf?t=1743518446019') format('truetype');
+}
+
+.hand-icons {
+  font-family: 'HandIcons' !important;font-size: undefined;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+

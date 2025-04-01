@@ -10,4 +10,4 @@ See all Icons [here](https://matteopiatti.github.io/handicons/)
 
 # Download
 
-Use the fonts in the dist folder or download via link above.
+Use the fonts in the docs folder or download via link above.

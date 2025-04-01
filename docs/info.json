@@ -1,0 +1,86 @@
+{
+  "arrow-down": {
+    "encodedCode": "\\97;&amp;#114;&amp;#114;&amp;#111;&amp;#119;&amp;#45;&amp;#100;&amp;#111;&amp;#119;&amp;#110",
+    "prefix": "hand-icons",
+    "className": "arrow-down",
+    "unicode": "&#97;&amp;#114;&amp;#114;&amp;#111;&amp;#119;&amp;#45;&amp;#100;&amp;#111;&amp;#119;&amp;#110;"
+  },
+  "arrow-left": {
+    "encodedCode": "\\97;&amp;#114;&amp;#114;&amp;#111;&amp;#119;&amp;#45;&amp;#108;&amp;#101;&amp;#102;&amp;#116",
+    "prefix": "hand-icons",
+    "className": "arrow-left",
+    "unicode": "&#97;&amp;#114;&amp;#114;&amp;#111;&amp;#119;&amp;#45;&amp;#108;&amp;#101;&amp;#102;&amp;#116;"
+  },
+  "arrow-right": {
+    "encodedCode": "\\97;&amp;#114;&amp;#114;&amp;#111;&amp;#119;&amp;#45;&amp;#114;&amp;#105;&amp;#103;&amp;#104;&amp;#116",
+    "prefix": "hand-icons",
+    "className": "arrow-right",
+    "unicode": "&#97;&amp;#114;&amp;#114;&amp;#111;&amp;#119;&amp;#45;&amp;#114;&amp;#105;&amp;#103;&amp;#104;&amp;#116;"
+  },
+  "arrow-up": {
+    "encodedCode": "\\97;&amp;#114;&amp;#114;&amp;#111;&amp;#119;&amp;#45;&amp;#117;&amp;#112",
+    "prefix": "hand-icons",
+    "className": "arrow-up",
+    "unicode": "&#97;&amp;#114;&amp;#114;&amp;#111;&amp;#119;&amp;#45;&amp;#117;&amp;#112;"
+  },
+  "cap": {
+    "encodedCode": "\\99;&amp;#97;&amp;#112",
+    "prefix": "hand-icons",
+    "className": "cap",
+    "unicode": "&#99;&amp;#97;&amp;#112;"
+  },
+  "cart": {
+    "encodedCode": "\\99;&amp;#97;&amp;#114;&amp;#116",
+    "prefix": "hand-icons",
+    "className": "cart",
+    "unicode": "&#99;&amp;#97;&amp;#114;&amp;#116;"
+  },
+  "cookie": {
+    "encodedCode": "\\99;&amp;#111;&amp;#111;&amp;#107;&amp;#105;&amp;#101",
+    "prefix": "hand-icons",
+    "className": "cookie",
+    "unicode": "&#99;&amp;#111;&amp;#111;&amp;#107;&amp;#105;&amp;#101;"
+  },
+  "credit-card": {
+    "encodedCode": "\\99;&amp;#114;&amp;#101;&amp;#100;&amp;#105;&amp;#116;&amp;#45;&amp;#99;&amp;#97;&amp;#114;&amp;#100",
+    "prefix": "hand-icons",
+    "className": "credit-card",
+    "unicode": "&#99;&amp;#114;&amp;#101;&amp;#100;&amp;#105;&amp;#116;&amp;#45;&amp;#99;&amp;#97;&amp;#114;&amp;#100;"
+  },
+  "cursor": {
+    "encodedCode": "\\99;&amp;#117;&amp;#114;&amp;#115;&amp;#111;&amp;#114",
+    "prefix": "hand-icons",
+    "className": "cursor",
+    "unicode": "&#99;&amp;#117;&amp;#114;&amp;#115;&amp;#111;&amp;#114;"
+  },
+  "minus": {
+    "encodedCode": "\\109;&amp;#105;&amp;#110;&amp;#117;&amp;#115",
+    "prefix": "hand-icons",
+    "className": "minus",
+    "unicode": "&#109;&amp;#105;&amp;#110;&amp;#117;&amp;#115;"
+  },
+  "pen": {
+    "encodedCode": "\\112;&amp;#101;&amp;#110",
+    "prefix": "hand-icons",
+    "className": "pen",
+    "unicode": "&#112;&amp;#101;&amp;#110;"
+  },
+  "plus": {
+    "encodedCode": "\\112;&amp;#108;&amp;#117;&amp;#115",
+    "prefix": "hand-icons",
+    "className": "plus",
+    "unicode": "&#112;&amp;#108;&amp;#117;&amp;#115;"
+  },
+  "two": {
+    "encodedCode": "\\116;&amp;#119;&amp;#111",
+    "prefix": "hand-icons",
+    "className": "two",
+    "unicode": "&#116;&amp;#119;&amp;#111;"
+  },
+  "user": {
+    "encodedCode": "\\117;&amp;#115;&amp;#101;&amp;#114",
+    "prefix": "hand-icons",
+    "className": "user",
+    "unicode": "&#117;&amp;#115;&amp;#101;&amp;#114;"
+  }
+}
