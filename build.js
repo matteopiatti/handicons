@@ -76,7 +76,7 @@ fs.mkdirSync(SVG_FIX_DIR, { recursive: true });
   `;
   fs.writeFileSync(path.join(DIST_DIR, 'index.js'), indexContent.trim());
   
-  fs.renameSync(path.join(DIST_DIR, "index.html"), path.join("index.html"));
+  fs.renameSync(path.join(DIST_DIR, "index.html"), path.join("docs/index.html"));
 
   // Delete unwanted/unneeded files
   fs.unlinkSync(path.join(DIST_DIR, "unicode.html"));

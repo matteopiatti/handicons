@@ -6,7 +6,7 @@ Handicons is a collection of beautifully crafted, hand-drawn icons designed to a
 
 # Preview
 
-See all Icons here:
+See all Icons [here](https://matteopiatti.github.io/handicons/)
 
 # Download
 
